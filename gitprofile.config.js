@@ -81,18 +81,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'OCR을 이용한 화장품 성분정보 제공 서비스 개발',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'OCR을 이용한 화장품 성분DB 수집 시스템 구축.',
+      imageUrl: 'https://github.com/yoonjiii/yoonjiii.github.io/blob/b94825fcd8eac2ffc563098fcd52bcdb02e7e61c/files/project_img1.png',
+      link: 'https://github.com/yoonjiii/yoonjiii.github.io/blob/b94825fcd8eac2ffc563098fcd52bcdb02e7e61c/files/2022%20%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EA%B3%BC%EC%A0%9C%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%A3%B0%EB%A3%A8%EB%9E%A9.pdf',
     },
     {
-      title: 'Project Name',
+      title: 'Stable diffusion을 활용한 패션 잡화 이미지 생성 모델 개발',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '루이까또즈 브랜드의 패션 잡화 이미지를 학습하여 프롬프트로 상품명을 입력했을 때 여러 각도의 잡화 이미지를 생성하는 모델',
+      imageUrl: 'https://github.com/yoonjiii/yoonjiii.github.io/blob/4fc47a8e5b357d6093831ef0562008f184ec9e8f/files/project_img2.png',
+      link: 'https://github.com/yoonjiii/yoonjiii.github.io/blob/4fc47a8e5b357d6093831ef0562008f184ec9e8f/files/%ED%95%98%EA%B3%84%EC%A7%91%EC%A4%91%EA%B7%BC%EB%AC%B4%20-%EC%BD%94%EB%94%94%EB%AF%B8.pdf',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
