@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: '윤지-undefined-a344a929a',
+    linkedin: 'yoonjiii',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -75,6 +75,7 @@ const config = {
       degree: 'Bachelor of Software',
       from: '2020',
       to: '~',
+      coursework: 'Data Structure, Algorithm, Problem Solving, System Program, Introduction to Computer Architecture, Computer Networks',
     },
   ],
 
