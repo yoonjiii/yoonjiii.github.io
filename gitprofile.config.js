@@ -1,10 +1,6 @@
 // gitprofile.config.js
 
 const config = {
-  profile: {
-    name: 'Yoon Ji', // Add the name here
-    bio: 'Software Engineer | Open Source Enthusiast | PHP | Node.js | React', // Add the bio here
-  },
   github: {
     username: 'yoonjiii', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
