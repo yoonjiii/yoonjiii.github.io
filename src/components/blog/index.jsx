@@ -7,11 +7,7 @@ import { getDevPost, getMediumPost } from '@arifszn/blog-js';
 import { formatDistance } from 'date-fns';
 
 const displaySection = (blog) => {
-  if (blog?.source && blog?.username) {
-    return true;
-  } else {
-    return false;
-  }
+  return true;
 };
 
 const Blog = ({ loading, blog, googleAnalytics }) => {
