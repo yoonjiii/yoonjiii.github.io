@@ -62,7 +62,7 @@ const GitProfile = ({ config }) => {
         let profileData = {
           avatar: data.avatar_url,
           name: data.name ? data.name : 'Yoonji An',
-          bio: data.bio ? data.bio : '',
+          bio: data.bio ? data.bio : 'I am a college student majoring in Software Engineering at Sungkyunkwan University.',
           location: data.location ? data.location : '',
           company: data.company ? data.company : '',
         };
